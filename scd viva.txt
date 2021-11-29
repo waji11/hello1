@@ -1,0 +1,52 @@
+1# 
+A Unit Test is a code written by any programmer which test small pieces of functionality of big programs. 
+Performing unit tests is always designed to be simple, A "UNIT" in this sense is the smallest component 
+of the large code part that makes sense to test, mainly a method out of many methods of some class.
+Generally the tests cases are written in the form of functions that will evaluate and determine whether a returned value
+ after performing Unit Test is equals to the value you were expecting when you wrote the function. 
+
+reliable banata hai
+maintenance achi krtaa hai
+reusablel ban jata haai code
+big program k boht sare methods main se method le kr test kia jataa haai
+
+
+
+2#  
+C# Exception Handling Keywords In C#, we use 4 keywords to perform exception handling:
+
+try
+catch
+finally, and
+throw
+
+Exception Handling in C# is a process to handle runtime errors. We perform exception handling so that normal flow of the application can be maintained even after runtime errors.
+
+In C#, exception is an event or object which is thrown at runtime. All exceptions the derived from System.Exception class. 
+It is a runtime error which can be handled. If we don't handle the exception, it prints exception message and terminates the program.
+
+Advantage
+It maintains the normal flow of the application. In such case, rest of the code is executed event after exception.
+
+3#
+Software maintenance is the process of changing, modifying, and updating software to keep up with customer needs. 
+
+Software  testing is the process of checking that the current output matching with expecteed output or not.
+
+4#
+ Software Configuration Management(SCM) is a process to systematically manage, organize, 
+and control the changes in the documents, codes, and other entities during the Software Development Life Cycle.
+
+5#
+github
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Create and use a repository
+Start and manage a new branch
+Make changes to a file and push them to GitHub as commits
+Open and merge a pull reques
+ repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets -- anything your project needs. 
+
+6#
+gitbash
+A shell is a terminal application used to interface with an operating system through written commands.Git Bash is an application for Microsoft Windows environments which provides an emulation 
+layer for a Git command line experience. 
